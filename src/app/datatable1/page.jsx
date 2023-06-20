@@ -49,6 +49,7 @@ export default function Datatable(props) {
                 <TableCell align="right">{row.carbs}</TableCell>
                 <TableCell align="right">{row.protein}</TableCell>
               </TableRow>
+              
             ))}
           </TableBody>
         </Table>
